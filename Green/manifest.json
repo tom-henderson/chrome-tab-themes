@@ -1,0 +1,11 @@
+{
+  "name": "Green Theme",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [193, 224, 121]
+    }
+  }
+}

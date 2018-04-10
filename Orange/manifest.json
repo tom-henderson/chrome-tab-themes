@@ -1,0 +1,11 @@
+{
+  "name": "Orange Theme",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [230, 164, 114]
+    }
+  }
+}

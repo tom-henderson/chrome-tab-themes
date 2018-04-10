@@ -1,0 +1,11 @@
+{
+  "name": "Blue Theme",
+  "description": "",
+  "version": "1.0",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "frame": [126, 200, 217]
+    }
+  }
+}
